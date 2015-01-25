@@ -1,0 +1,6 @@
+[
+    {
+        "name":     "android_vendor_cm",
+        "path":     "vendor/cm"
+    }
+]

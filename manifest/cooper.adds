@@ -1,0 +1,9 @@
+[
+    {
+        "remote":       "github",
+        "account":      "androidarmv6",
+        "repository":   "android_vendor_cm",
+        "target_path":  "vendor/cm",
+        "revision":     "cm-12.0"
+    }
+]
